@@ -1,0 +1,1 @@
+This is my first swift app, don't judge me if I have some mistakes. So, I want to practise in creating something and I found a prefect chanel "CodeWithChris" who made this app! It's prerfect for practising if you are beginner
